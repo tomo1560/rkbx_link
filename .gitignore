@@ -6,3 +6,16 @@ current_track.txt
 setlist.txt
 rkbx_link.exe
 rkbx_link.zip
+
+# Cheat Engine Temp files
+*.PTR.results.*
+*.scandata
+*.scandata.*
+*.PTR
+ExceptionAutoSave_*.ct
+
+# JetBrains IDEs (Rider / RustRover / IntelliJ)
+.idea/
+
+# If you intentionally use an "out" directory for build artifacts, uncomment the next line.
+# out/
